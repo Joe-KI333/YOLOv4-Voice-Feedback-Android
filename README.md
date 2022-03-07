@@ -9,7 +9,7 @@
 - Make Changes in DetectorActivity.java at line 214 with your own command.
 
 Check The Output Video:- 
-q
+
 
 
 
