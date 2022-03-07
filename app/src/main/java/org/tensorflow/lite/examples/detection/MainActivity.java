@@ -61,7 +61,11 @@ public class MainActivity extends AppCompatActivity {
             }).start();
 
         });
+<<<<<<< HEAD
         this.sourceBitmap = Utils.getBitmapFromAsset(MainActivity.this, "kite.png");
+=======
+        this.sourceBitmap = Utils.getBitmapFromAsset(MainActivity.this, "kite.jpg");
+>>>>>>> d78aee5 (Initial commit)
 
         this.cropBitmap = Utils.processBitmap(sourceBitmap, TF_OD_API_INPUT_SIZE);
 
