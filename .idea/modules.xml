@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YOLOv4-Voice-Feedback-Android.iml" filepath="$PROJECT_DIR$/.idea/modules/YOLOv4-Voice-Feedback-Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/YOLOv4-Voice-Feedback-Android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/YOLOv4-Voice-Feedback-Android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tensorflow-lite/YOLOv4-Voice-Feedback-Android.tensorflow-lite.iml" filepath="$PROJECT_DIR$/.idea/modules/tensorflow-lite/YOLOv4-Voice-Feedback-Android.tensorflow-lite.iml" />
+    </modules>
+  </component>
+</project>
