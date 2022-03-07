@@ -161,7 +161,7 @@ public class YoloV4Classifier implements Classifier {
     private static final float IMAGE_STD = 255.0f;
 
     //config yolov4
-    private static final int INPUT_SIZE = 416;
+    private static final int INPUT_SIZE = 4016;
     private static final int[] OUTPUT_WIDTH = new int[]{52, 26, 13};
 
     private static final int[][] MASKS = new int[][]{{0, 1, 2}, {3, 4, 5}, {6, 7, 8}};
