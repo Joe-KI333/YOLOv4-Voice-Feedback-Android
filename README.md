@@ -1,4 +1,4 @@
-- PUT YOUR CUSTOM TFLITE MODEL IN "YOLOv4-Voice-Feedback-Android/app/src/main/assets/"
+- Pur Your Custom Tflie model in "YOLOv4-Voice-Feedback-Android/app/src/main/assets/" And Change the names in class.txt
 
 - Make Changes in Yolov4Classifier.java at line 181 if it yolov4-tiny private static boolean isTiny = true; if it is only yolov4 model -    private static boolean isTiny = false;
 
